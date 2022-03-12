@@ -1,3 +1,0 @@
-Proyecto de front end con Angular y Angular Material donde se usa Json Server como fake back end y se contruye una RestFul API con componentes dinamicos, iteraciones, 
-lectura de datos y buen estilo visual. Además, se ha empleado logica de negocio sobre una app web donde puedas inicar sesion, registrarte, poner en adopcion animales o adoptarlos
-entre otras funciones. 
